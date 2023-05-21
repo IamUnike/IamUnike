@@ -1,8 +1,8 @@
-### Hi there 👋, Im Gideon Cyril
+### Hi there 👋, I'm Gideon Cyril
  I'm a Passionate Frontend Developer and Cybersecurity enthusisast
 
 # 💫 About Me:
-🔭 I’m currently working on Edustreak<br>🤝 I’m looking for help with perfecting my React skills<br>🌱 I’m currently learning React js<br>💬 Ask me about Cybersecurity and Frontend development<br>⚡ Fun fact:  I'm the man before Elon Musk... lol
+🔭 I’m currently working on Edustreak<br>🌱 I’m currently learning React js<br>💬 Ask me about Cybersecurity and Frontend development<br>⚡ Fun fact:  I'm the man before Elon Musk... lol
 
 
 ## 🌐 Socials:
