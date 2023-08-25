@@ -4,7 +4,7 @@
  
 
 # 💫 About Me:
-🔭 I’m currently working on Edustreak<br>🌱 I’m currently learning React js<br>💬 Ask me about Cybersecurity and Frontend development<br>⚡ Fun fact:  I'm the man before Elon Musk... lol
+🌱 I’m currently learning React js<br>💬 Ask me about Cybersecurity and Frontend development<br>⚡ Fun fact:  I'm the man before Elon Musk... lol
 <br><br>
 
 ## 🌐 Socials:
