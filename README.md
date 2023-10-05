@@ -2,6 +2,9 @@
  I'm a Passionate Frontend Developer and Cybersecurity enthusisast
 <br><br>
 
+![GitHub Views](https://komarev.com/ghpvc/?username=IamUnike)
+
+
 #### About Me
 💬 Ask me about Cybersecurity and Frontend development
 <br>⚡ Fun fact:  Not every Fun Fact is fun
